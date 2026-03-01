@@ -5,7 +5,7 @@
 
 ## 🧠 Contexto para la IA
 
-Este documento es una guía de implementación completa. Cursor AI debe leerlo **en su totalidad antes de escribir cualquier línea de código**. Cada fase depende de la anterior. Seguir el orden estrictamente.
+Este documento es una guía de implementación completa. Antigravity AI debe leerlo **en su totalidad antes de escribir cualquier línea de código**. Cada fase depende de la anterior. Seguir el orden estrictamente.
 
 ### Stack tecnológico obligatorio
 
